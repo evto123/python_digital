@@ -1,0 +1,5 @@
+a=input("Enter Full name: ")
+print(a)
+print((a[::-1]))
+b=' '.join(a[::-1])
+print(b)
